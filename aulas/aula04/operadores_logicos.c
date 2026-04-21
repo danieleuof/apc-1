@@ -19,13 +19,5 @@ int main () {
     // ! => NÃO Verdadeiro = Falso, NAO Falso = Verdadeiro
     printf("Voce nao pode votar? %i\n", !(idade >= 16));
 
-
-
-
-
-
-
-
-
     return 0;
 }
