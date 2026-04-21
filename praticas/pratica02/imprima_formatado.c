@@ -34,8 +34,8 @@ Total                   229.85
 
     printf("==============================\n");
     char *total = "Total";  
-    char *valor_total = "229.85";
-    printf("%s                   %s\n", total, valor_total);
+    char *valor_do_total = "229.85";
+    printf("%s                   %s\n", total, valor_do_total);
 
     return 0;
 }
