@@ -19,7 +19,7 @@ int main () {
     int subtracao = operador1 - operador2;
     int multiplicacao = operador1 * operador2;
     float divisao = operador1 / operador2;
-    int resto = oerador1 % operador2; // módulo, não é percentual
+    int resto = operador1 % operador2; // módulo, não é percentual
 
     // 3. Saída
     printf("%i + %i = %i\n", operador1, operador2, soma);
