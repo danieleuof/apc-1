@@ -3,10 +3,11 @@ int main() {
 
     int nota;
 
-    /* printf("Entre com uma nota de 1 a 5: ");
+    printf("Entre com uma nota de 1 a 5: ");
     scanf("%i", &nota);
+    while (getchar() != '\n');
 
-    if (nota == 1) {
+    /*if (nota == 1) {
         printf("Ganhou uma estrela *\n");
     } else if (nota == 2) {
         printf("Ganhou duas estrelas **\n");
